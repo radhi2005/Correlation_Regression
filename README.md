@@ -1,4 +1,8 @@
 # Correlation and regression for data analysis
+
+# Developed by : RADHIMEENA M
+# Register No : 212223040159
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -23,12 +27,6 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
-
-# Result
-
-Developed by : SWETHA A
-
-Register No : 212224040343
 
 ```
 import numpy as np
