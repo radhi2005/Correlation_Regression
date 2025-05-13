@@ -70,3 +70,7 @@ plt.show()
 
 ![EXP3](https://github.com/user-attachments/assets/fbd08a89-73d2-4361-ab5a-4d6b2fa50fb2)
 
+
+# Result
+
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated
